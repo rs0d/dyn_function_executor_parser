@@ -1,0 +1,20 @@
+[package]
+name = "dyn_function_executor_parser"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+
+[[bin]]
+name="main"
+path="src/main.rs"
+
+
+[dependencies]
+anyhow = "1.0.75"
+lazy_static = "1.4.0"
+nom = "7.1.3"
+
+
