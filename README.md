@@ -3,6 +3,6 @@ This is a demo, including parsing and execution
 
 - [x] parsing
 - [x] execution
-- [x] Function registration
+- [x] function registration
 - [ ] nested execution
 - [ ] Parallel execution
